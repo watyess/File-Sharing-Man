@@ -66,7 +66,7 @@ bash start
 * `OWNER_ID` Masukan User ID Telegram untuk Owner BOT
 * `CHANNEL_ID` Masukan ID Channel Untuk [Channel Database] contoh:- -100xxxxxxxx
 * `ADMINS` Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]
-* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#start_message'>format</a> parsemode HTML 
+* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/reyhanhan7/File-Sharing-Man/blob/main/README.md#start_message'>format</a> parsemode HTML 
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
 * `FORCE_SUB_CHANNEL` Masukan ID dari Channel Untuk Wajib Subscribenya
 * `FORCE_SUB_GROUP` Masukan ID dari Group Untuk Wajib Subscribenya
